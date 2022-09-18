@@ -1,0 +1,6 @@
+[requires]
+dawn/5301@seto/cmake
+
+[generators]
+CMakeDeps
+CMakeToolchain
